@@ -1,5 +1,5 @@
 :root {
-    --main-color: #0000ff;
+    --main-color: #EE00ff;
 }
 #buttons, #reset-section {
     text-align: center;
@@ -10,7 +10,7 @@ button {
     margin: 15px 20px;
     padding: 30px;
     width: 10rem;
-    background: #000;
+    background: #FFF;
     color: var(--main-color);
 }
 #reset {
